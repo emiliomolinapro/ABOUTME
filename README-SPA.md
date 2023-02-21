@@ -1,15 +1,15 @@
 <h1 align="center">Hola 👋, Soy Emilio Molina Román</h1>
 <h3 align="center">Ingeniero Informático y Fullstack Developer</h3>
 
-- 🌱 I’m currently learning **Frameworks en Udemy**
+- 🌱 Actualmente aprendiendo **Frameworks en Udemy**
 
-- 👨‍💻 All of my projects are available at [emiliomolinapro.es](emiliomolinapro.es)
+- 👨‍💻 Toda mi trayectoria en [emiliomolinapro.es](emiliomolinapro.es)
 
-- 💬 Ask me about **Full Stack Developer | HTML, CSS, JavaScript, ReactJS, Angular | Python, PHP**
+- 💬 Pregúntame sobre **Full Stack Developer | HTML, CSS, JavaScript, ReactJS, Angular | Python, PHP**
 
-- 📫 How to reach me **contact@emiliomolinapro.es**
+- 📫 Contáctame en **contact@emiliomolinapro.es**
 
-- 📄 Know about my experiences [linkedin.com/emiliomolinapro](linkedin.com/emiliomolinapro)
+- 📄 Aprende más sobre mí [linkedin.com/emiliomolinapro](linkedin.com/emiliomolinapro)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
